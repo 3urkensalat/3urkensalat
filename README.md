@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3urkensalat
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning a lot useless stuff
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
 
 <!---
