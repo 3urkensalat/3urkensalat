@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning a lot useless stuff
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
+- Just check out my repositories ;)
 
 <!---
 3urkensalat/3urkensalat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
